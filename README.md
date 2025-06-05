@@ -23,12 +23,12 @@ Sou um **Desenvolvedor de Software** em formação, entusiasta de tecnologia e i
 
 # 🚀 **Habilidades em desenvolvimento**
 
-- **Java**
-- **JavaScript**
-- **Python**
-- **HTML/CSS**
-- **IBM Cloud (Watson Assistant)**
-- **Oracle SQL**
+- Java
+- JavaScript
+- Python
+- HTML/CSS
+- IBM Cloud (Watson Assistant)
+- Oracle SQL
   
 ---
 
