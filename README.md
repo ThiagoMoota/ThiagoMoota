@@ -13,7 +13,7 @@ Sou um **Desenvolvedor de Software** em formação, entusiasta de tecnologia e i
 🎓 **Educação**
 
 - Tecnologia em **Análise e Desenvolvimento de Sistemas** – FIAP (Conclusão em dezembro de 2026)
-- **Inglês Avançado** - Wizard by Pearson
+- **Inglês Intermediário Avançado** - Wizard by Pearson
 
 💼 **Objetivo Profissional**
 
